@@ -24,4 +24,8 @@ public class CorsConfiguration implements WebMvcConfigurer
             }
         };
     }
+//    spring.datasource.url=jdbc:postgresql://postgres.cez7fi3rxuwi.us-east-2.rds.amazonaws.com:5432/postgres
+//    	spring.datasource.username=postgres
+//    	spring.datasource.password=root1234  
+
 }
